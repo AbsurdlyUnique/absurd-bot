@@ -1,0 +1,13 @@
+{
+  "version": "6",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1717008102356,
+      "tag": "0000_oval_bruce_banner",
+      "breakpoints": true
+    }
+  ]
+}
